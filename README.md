@@ -90,28 +90,32 @@ To use the `resizable_tabs` package in your Flutter project, follow these steps:
 ### Prerequisites
 
 Make sure you have Flutter installed on your machine:
-* Terminal
-  ```bash
-  flutter --version
-  ```
+  * Terminal
+      ```bash
+      flutter --version
+      ```
 
 ### Installation
 
 1. Add the package to your `pubspec.yaml`:
-  ```yaml
-  dependencies:
-    resizable_tabs: ^1.0.0
-  ```
+  *  pubspec.yaml
+     ```yaml
+     dependencies:
+              resizable_tabs: ^1.0.0
+     ```
+        
 
 2. Install packages:
-   ```bash
-   flutter pub get
-   ```
+  * Terminal
+    ```sh
+     flutter pub get
+     ```
    
-4. Import it in your Dart file:
-   ```dart
-   import 'package:resizable_tabs/resizable_tabs.dart';
-   ```
+3. Import it in your Dart file:
+  * Dart file
+     ```dart
+     import 'package:resizable_tabs/resizable_tabs.dart';
+     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,6 +202,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
 [dart-url]: https://dart.dev/
+
 
 
 
