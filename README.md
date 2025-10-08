@@ -4,12 +4,17 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[github-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=github
+
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github
 [github-url]: https://github.com/MBarkouchHub
+
+[repo-shield]: https://img.shields.io/badge/-Repo-grey.svg?style=for-the-badge&logo=github
+[repo-url]: https://github.com/MBarkouchHub
+
 [License-shield]: https://img.shields.io/badge/-License-yellow.svg?style=for-the-badge&logo=license
 [License-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
 
-[![LinkedIn][linkedin-shield]][linkedin-url]   [![Github][github-shield]][github-url]   [![License][License-shield]][License-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]   [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]
 
 
 
@@ -18,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/f7a573a0-c8bb-4928-ad13-bddb4a70c771" width="auto" loop muted>App Exemple</video>
+  <video src="https://github.com/user-attachments/assets/f7a573a0-c8bb-4928-ad13-bddb4a70c771" width="auto" loop muted label:"Resized tabs Exemple"></video>
 
   <h3 align="center">Resizable Tabs 🔀</h3>
 
@@ -70,13 +75,15 @@ Perfect for IDE-like layouts, dashboards, editors, and responsive designs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Flutter-shield]: https://img.shields.io/badge/-Flutter-blue.svg?style=for-the-badge&logo=code
-[Flutter-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
-[Dart-shield]: https://img.shields.io/badge/-Dart-black.svg?style=for-the-badge&logo=dev
-[Dart-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
+[flutter.dart]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
+[flutter-url]: https://vuejs.org/
+
+[dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
+[dart-url]: https://vuejs.org/
 
 ### Built With
-[![Flutter][Flutter-shield]][Flutter-url]  [![Dart][Dart-shield]][Dart-url]
+* [![Flutter][flutter.dart]][flutter-url]
+* [![Dart][dart]][flutter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,3 +99,5 @@ Add this line to your `pubspec.yaml`:
 ```yaml
 dependencies:
   resizable_tabs: ^1.0.0
+
+```
