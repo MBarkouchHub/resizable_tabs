@@ -1,12 +1,25 @@
-
+<a name="readme-top"></a>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/othneildrew
-<a name="readme-top"></a>
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]
 
+<!-- TABLE OF CONTENTS -->
+
+  <h3>Table of Contents</h3>
+  <ol>
+    <li><a href="#video">Video</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
 
  <h1 align="center">Resizable Tabs </h1>
   <p align="center">
@@ -18,9 +31,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/f7a573a0-c8bb-4928-ad13-bddb4a70c771" width="auto" loop muted label:"Resized tabs Exemple"></video>
+
+
+ <div align="center" id="video">
+  <video src="https://github.com/user-attachments/assets/f7a573a0-c8bb-4928-ad13-bddb4a70c771" width="auto" loop muted decoration:none></video>
 </div>
+
 
 
 
@@ -34,18 +50,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
 
 
 
@@ -190,6 +195,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [pub.dev-shield]: https://img.shields.io/badge/-pub.dev-blue.svg?style=for-the-badge&logo=dart
 [pub.dev-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
+
 
 
 
