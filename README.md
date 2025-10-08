@@ -4,8 +4,13 @@
 
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]
+<br/>   [![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]
 
+<style>
+  p a{
+    align: center;
+  }
+</style>
 <!-- TABLE OF CONTENTS -->
 
   <h3>Table of Contents</h3>
@@ -198,8 +203,6 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
 [dart-url]: https://dart.dev/
-
-
 
 
 
