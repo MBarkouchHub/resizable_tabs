@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin
-[linkedin-url]: https://linkedin.com/in/othneildrew
+
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]
@@ -73,13 +72,7 @@ Perfect for IDE-like layouts, dashboards, editors, and responsive designs.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[flutter.dart]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
-[flutter-url]: https://vuejs.org/
-
-[dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
-[dart-url]: https://vuejs.org/
 
 ### Built With
 * [![Flutter][flutter.dart]][flutter-url]
@@ -120,7 +113,7 @@ Make sure you have Flutter installed on your machine:
    import 'package:resizable_tabs/resizable_tabs.dart';
    ```
 
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p >(<a href="#readme-top">back to top</a>)</p>
 
  
 ### Usage
@@ -141,7 +134,7 @@ Scaffold(
     ),
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p >(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -159,7 +152,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature.name`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p >(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -168,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p >(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -179,7 +172,7 @@ Mourad BARKOUCH - 2126 82 69 00 09  - mouradbarkouch@gmail.com
 
 Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p >(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -187,7 +180,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 [github-url]: https://github.com/MBarkouchHub
 
 [repo-shield]: https://img.shields.io/badge/-Repo-grey.svg?style=for-the-badge&logo=github
-[repo-url]: https://github.com/MBarkouchHub
+[repo-url]: https://github.com/MBarkouchHub/resizable_tabs
 
 [License-shield]: https://img.shields.io/badge/-License-yellow.svg?style=for-the-badge&logo=security
 [License-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
@@ -195,6 +188,17 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [pub.dev-shield]: https://img.shields.io/badge/-pub.dev-blue.svg?style=for-the-badge&logo=dart
 [pub.dev-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin
+[linkedin-url]: https://linkedin.com/in/mo-bark
+
+
+[flutter.dart]: https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white
+[flutter-url]: https://flutter.dev/
+
+[dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
+[dart-url]: https://dart.dev/
+
 
 
 
