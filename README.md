@@ -98,7 +98,7 @@ To use the `resizable_tabs` package in your Flutter project, follow these steps:
 
 Make sure you have Flutter installed on your machine:
 * Terminal
-  ```sh
+  ```bash
   flutter --version
   ```
 
@@ -111,7 +111,7 @@ Make sure you have Flutter installed on your machine:
   ```
 
 2. Install packages:
-   ```sh
+   ```bash
    flutter pub get
    ```
    
@@ -121,6 +121,8 @@ Make sure you have Flutter installed on your machine:
    ```
 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+ 
 ### Usage
 
 Here’s a simple example of creating a resizable tabs layout:
@@ -193,6 +195,7 @@ Mourad BARKOUCH - [@your_twitter](https://twitter.com/your_username) - mouradbar
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
