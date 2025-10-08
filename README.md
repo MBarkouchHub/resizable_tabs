@@ -4,7 +4,7 @@
 
 
 
- [![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]   [![emailme][emailme-shield]][emailme-url]  
+ [![LinkedIn][linkedin-shield]][linkedin-url]  [![Github][github-shield]][github-url]   [![repo][repo-shield]][repo-url]   [![License][License-shield]][License-url]    [![pub.dev][pub.dev-shield]][pub.dev-url]   [![emailme][emailme-shield]][emailme-url]  [![version][version-shield]][version-url]  
 
 <!-- TABLE OF CONTENTS -->
 
@@ -205,6 +205,9 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [emailme-shield]: https://img.shields.io/badge/mouradbarkouch@gmail.com-red?style=for-the-badge&logo=google&logoColor=white
 [emailme-url]: #
+
+[version-shield]: https://img.shields.io/badge/v10.0-green?style=for-the-badge&logo=&logoColor=white
+[version-url]: #
 
 
 
