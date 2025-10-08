@@ -101,7 +101,7 @@ Make sure you have Flutter installed on your machine:
   *  pubspec.yaml
      ```yaml
      dependencies:
-              resizable_tabs: ^1.0.0
+       resizable_tabs: ^1.0.0
      ```
         
 
@@ -208,6 +208,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [version-shield]: https://img.shields.io/badge/v10.0-green?style=for-the-badge&logo=&logoColor=white
 [version-url]: #
+
 
 
 
