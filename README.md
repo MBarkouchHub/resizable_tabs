@@ -23,13 +23,8 @@
 </div>
 
 
- <h3 align="center">Resizable Tabs 🔀</h3>
+
   <p align="center">
-    A lightweight and elegant Flutter widget to create resizable tab layouts with a draggable divider.
-    <br />
-    <a href="https://pub.dev/packages/resizable_tabs"><strong>Explore on pub.dev »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/MBarkouchHub/resizable_tabs">View Demo</a>
     ·
     <a href="https://github.com/MBarkouchHub/resizable_tabs/issues">Report Bug</a>
@@ -62,11 +57,18 @@
 `resizable_tabs` is a Flutter package that provides a **split-view layout** with two tabs (or panels) separated by a **draggable divider**.  
 Perfect for IDE-like layouts, dashboards, editors, and responsive designs.
 
-### Why use it?
-* 🧩 Create resizable panels effortlessly  
-* ⚡ Lightweight, dependency-free, and responsive  
-* 🎨 Fully customizable divider style and behavior  
-* 🪟 Works in both horizontal and vertical layouts  
+
+<!-- ROADMAP -->
+## Features
+
+- [x] resizable
+- [x] Lightweight
+- [x] Works in both horizontal and vertical layouts
+- [x] responsive
+- [ ] customizable divider
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,21 +140,6 @@ Scaffold(
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -205,6 +192,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [pub.dev-shield]: https://img.shields.io/badge/-pub.dev-blue.svg?style=for-the-badge&logo=dart
 [pub.dev-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
+
 
 
 
