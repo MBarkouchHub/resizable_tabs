@@ -76,7 +76,7 @@ Perfect for IDE-like layouts, dashboards, editors, and responsive designs.
 
 ### Built With
 * [![Flutter][flutter.dart]][flutter-url]
-* [![Dart][dart]][flutter-url]
+* [![Dart][dart]][dart-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,6 +198,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
 [dart-url]: https://dart.dev/
+
 
 
 
