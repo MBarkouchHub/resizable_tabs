@@ -183,7 +183,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 [repo-url]: https://github.com/MBarkouchHub/resizable_tabs
 
 [License-shield]: https://img.shields.io/badge/-License-yellow.svg?style=for-the-badge&logo=security
-[License-url]: github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
+[License-url]: https://github.com/MBarkouchHub/resizable_tabs/blob/m.barkouch.branch/LICENSE
 
 
 [pub.dev-shield]: https://img.shields.io/badge/-pub.dev-blue.svg?style=for-the-badge&logo=dart
@@ -198,6 +198,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
 [dart-url]: https://dart.dev/
+
 
 
 
