@@ -113,7 +113,7 @@ Make sure you have Flutter installed on your machine:
    import 'package:resizable_tabs/resizable_tabs.dart';
    ```
 
- <p >(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
 ### Usage
@@ -134,7 +134,7 @@ Scaffold(
     ),
    ```
 
-<p >(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -152,7 +152,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature.name`)
 5. Open a Pull Request
 
-<p >(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -161,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p >(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -172,7 +172,7 @@ Mourad BARKOUCH - 2126 82 69 00 09  - mouradbarkouch@gmail.com
 
 Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
-<p >(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -198,6 +198,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [dart]: https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white
 [dart-url]: https://dart.dev/
+
 
 
 
