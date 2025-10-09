@@ -15,11 +15,11 @@ class ExampleApp extends StatelessWidget {
       home: Scaffold(
         body: ResizableTabs(
           tabOne: Container(
-            color: Colors.blue,
+            color: Colors.blue.shade200,
             child: const Center(child: Text('Left Tab')),
           ),
           tabTwo: Container(
-            color: Colors.green,
+            color: Colors.green.shade200,
             child: const Center(child: Text('Right Tab')),
           ),
         ),

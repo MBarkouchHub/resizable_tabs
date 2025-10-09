@@ -124,18 +124,18 @@ Make sure you have Flutter installed on your machine:
 
 Here’s a simple example of creating a resizable tabs layout:
  ```dart
-Scaffold(
-      body: ResizableTabsScreen(
-        tabOne: Container(
-          color: Colors.blue,
-          child: const Center(child: Text('Left Tab')),
-        ),
-        tabTwo: Container(
-          color: Colors.green,
-          child: const Center(child: Text('Right Tab')),
-        ),
-      ),
-    ),
+      Scaffold(
+            body: ResizableTabs(
+                tabOne: Container(
+                  color: Colors.blue.shade200,
+                  child: const Center(child: Text('Left Tab')),
+                ),
+                tabTwo: Container(
+                  color: Colors.green.shade200,
+                  child: const Center(child: Text('Right Tab')),
+                ),
+              ),
+          ),
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
