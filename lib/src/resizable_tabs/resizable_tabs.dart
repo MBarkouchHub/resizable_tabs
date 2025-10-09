@@ -33,8 +33,8 @@ class _ResizableTabsState extends State<ResizableTabs> {
     final screenWidth = MediaQuery.of(context).size.width;
     final leftWidth = screenWidth * dividerPosition;
     final rightWidth = screenWidth - leftWidth;
-    final double leftPercentage = (leftWidth * 100) / screenWidth;
-    final double rightPercentage = (rightWidth * 100) / screenWidth;
+    final int leftPercentage =( (leftWidth * 100) / screenWidth).round();
+    final int rightPercentage = ((rightWidth * 100) / screenWidth).round();
 
     return Scaffold(
       body: Stack(

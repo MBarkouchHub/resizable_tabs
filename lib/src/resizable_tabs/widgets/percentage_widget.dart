@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class PercentageWidget extends StatelessWidget {
   const PercentageWidget( this.value, {super.key,});
 
-  final double value;
+  final int value;
 
   @override
   Widget build(BuildContext context) {
