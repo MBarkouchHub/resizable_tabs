@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import './position_listener.dart';
-import './widgets/percentage_widget.dart';
-import './widgets/screen_spliter.dart';
+import 'position_listener.dart';
+import 'widgets/percentage_widget.dart';
+import 'widgets/screen_spliter.dart';
 
 class ResizableTabs extends StatefulWidget {
   const ResizableTabs({
@@ -26,14 +26,14 @@ class _ResizableTabsState extends State<ResizableTabs> {
   double dividerPosition = .5;
   bool _isDragging = false;
   double? _lastDragGlobalX;
-  final double _dividerWidth = 30.0;
+  final double _dividerWidth = 60.0;
 
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.of(context).size.width;
     final leftWidth = screenWidth * dividerPosition;
     final rightWidth = screenWidth - leftWidth;
-    final int leftPercentage =( (leftWidth * 100) / screenWidth).round();
+    final int leftPercentage = ((leftWidth * 100) / screenWidth).round();
     final int rightPercentage = ((rightWidth * 100) / screenWidth).round();
 
     return Scaffold(
@@ -44,13 +44,19 @@ class _ResizableTabsState extends State<ResizableTabs> {
               SizedBox(
                 width: leftWidth,
                 child: _isDragging
-                    ? PercentageWidget(leftPercentage)
+                    ? PercentageWidget(
+                        value: leftPercentage,
+                        widget: widget.tabOne,
+                      )
                     : widget.tabOne,
               ),
               SizedBox(
                 width: rightWidth,
                 child: _isDragging
-                    ? PercentageWidget(rightPercentage)
+                    ? PercentageWidget(
+                        value: rightPercentage,
+                        widget: widget.tabTwo,
+                      )
                     : widget.tabTwo,
               ),
             ],

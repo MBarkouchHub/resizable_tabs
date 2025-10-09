@@ -12,23 +12,26 @@ class ScreenSpliter extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Color devColor = isDragging ? Theme.of(context).primaryColor : Colors.grey;
+    final Color devColor = isDragging
+        ? Theme.of(context).primaryColor
+        : Colors.grey;
     return SizedBox(
       width: width,
-      child: Center(
-        child: Column(
-          children: [
-            Expanded(child: VerticalDivider(thickness: 3, color: devColor)),
-            Expanded(
-              child: VerticalDivider(
-                thickness: width,
-                radius: BorderRadius.circular(30.0),
-                color: devColor,
-              ),
-            ),
-            Expanded(child: VerticalDivider(thickness: 3, color: devColor)),
-          ],
-        ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(
+            Icons.keyboard_double_arrow_left_outlined,
+            color: devColor,
+            size: 26,
+          ),
+          VerticalDivider(width: 8, thickness: 8, color: devColor),
+          Icon(
+            Icons.keyboard_double_arrow_right_outlined,
+            color: devColor,
+            size: 26,
+          ),
+        ],
       ),
     );
   }
