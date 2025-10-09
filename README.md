@@ -33,7 +33,7 @@
 
 
  <div align="center" id="video">
-  <video src="https://github.com/user-attachments/assets/f7a573a0-c8bb-4928-ad13-bddb4a70c771" width="auto" loop muted decoration:none></video>
+  <video src="https://github.com/user-attachments/assets/0b4c320c-ec6f-4a7e-88d3-912ef5fa1a62" width="auto" loop muted decoration:none></video>
 </div>
 
 
@@ -208,6 +208,7 @@ Project Link: [Click here!](https://github.com/MBarkouchHub/resizable_tabs)
 
 [version-shield]: https://img.shields.io/badge/v1.0.0-green?style=for-the-badge&logo=&logoColor=white
 [version-url]: #
+
 
 
 
