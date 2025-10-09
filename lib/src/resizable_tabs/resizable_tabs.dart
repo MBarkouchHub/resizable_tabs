@@ -94,8 +94,6 @@ class _ResizableTabsState extends State<ResizableTabs> {
                 child: ScreenSpliter(
                   width: _dividerWidth,
                   isDragging: _isDragging,
-                  color: Colors.grey,
-                  activeColor: Colors.blue,
                 ),
               ),
             ),
