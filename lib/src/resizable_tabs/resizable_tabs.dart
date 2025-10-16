@@ -26,7 +26,7 @@ class _ResizableTabsState extends State<ResizableTabs> {
   double dividerPosition = .5;
   bool _isDragging = false;
   double? _lastDragGlobalX;
-  final double _dividerWidth = 60.0;
+  final double _dividerWidth = 30.0;
 
   @override
   Widget build(BuildContext context) {

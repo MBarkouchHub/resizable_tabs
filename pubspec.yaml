@@ -12,6 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dotted_border: ^2.0.0
+  custom_divider: ^0.0.3
 
 dev_dependencies:
   flutter_test:

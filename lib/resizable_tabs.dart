@@ -1,1 +1,1 @@
-export './src/resizable_tabs/resizable_tabs.dart';
+export 'src/resizable_tabs/resizable_tabs.dart';

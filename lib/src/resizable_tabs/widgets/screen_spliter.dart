@@ -1,3 +1,5 @@
+import 'package:custom_divider/custom_divider.dart';
+import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 
 class ScreenSpliter extends StatelessWidget {
@@ -12,26 +14,43 @@ class ScreenSpliter extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Color devColor = isDragging
-        ? Theme.of(context).primaryColor
-        : Colors.grey;
+    final theme = Theme.of(context);
+    final Color devColor = isDragging ? theme.primaryColor : Colors.grey;
     return SizedBox(
       width: width,
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(
-            Icons.keyboard_double_arrow_left_outlined,
-            color: devColor,
-            size: 26,
-          ),
-          VerticalDivider(width: 8, thickness: 8, color: devColor),
-          Icon(
-            Icons.keyboard_double_arrow_right_outlined,
-            color: devColor,
-            size: 26,
-          ),
-        ],
+      child: Center(
+        child: Column(
+          children: [
+            Expanded(
+              child: CustomDivider(
+                orientation: DividerOrientation.VERTICAL,
+                style: DividerStyle.DASHED,
+                dashWidth: 10,
+                thickness: 2,
+                color: devColor,
+              ),
+            ),
+            Center(
+              child: DottedBorder(
+                color: devColor,
+                dashPattern: [6, 3], // [dash length, gap length]
+                strokeWidth: 2,
+                borderType: BorderType.RRect,
+                radius: Radius.circular(12),
+                child: SizedBox(height: 120, width: 16),
+              ),
+            ),
+            Expanded(
+              child: CustomDivider(
+                orientation: DividerOrientation.VERTICAL,
+                style: DividerStyle.DASHED,
+                dashWidth: 10,
+                thickness: 2,
+                color: devColor,
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
