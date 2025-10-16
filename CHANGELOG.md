@@ -1,3 +1,5 @@
+### V1.1.0
+- Update screen spliter
 
 
 ### V1.0.0 : Initial Release 2025-10-08
