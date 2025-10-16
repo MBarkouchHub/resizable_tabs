@@ -101,7 +101,7 @@ Make sure you have Flutter installed on your machine:
   *  pubspec.yaml
      ```yaml
      dependencies:
-       resizable_tabs: ^1.0.0
+       resizable_tabs: ^1.1.0
      ```
         
 
